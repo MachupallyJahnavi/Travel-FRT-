@@ -9,3 +9,5 @@ Hotel Management is an area of study that covers a wide range of topics concerne
 ![image](https://user-images.githubusercontent.com/80819155/178901989-c3764e31-0bd2-438e-b788-cd48b84301b6.png)
 ![image](https://user-images.githubusercontent.com/80819155/178901998-8ba97c54-1371-4bb4-8188-0325938fe3f4.png)
 ![image](https://user-images.githubusercontent.com/80819155/178902040-96bd4cb0-5a9a-49f0-8930-55ff300e8392.png)
+![image](https://user-images.githubusercontent.com/80819155/178902139-25d0ba9e-d6ac-4062-9b9a-c4df322eddba.png)
+![image](https://user-images.githubusercontent.com/80819155/178902153-9fecd2fe-dc19-442d-b171-1ed73f5a4efc.png)
